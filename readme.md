@@ -12,3 +12,5 @@ username : nazmul
 
 password : nazmul
 
+(N.B. laravel vendor is not included. Install it manually.)
+
